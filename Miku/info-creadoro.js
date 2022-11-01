@@ -3,26 +3,23 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `
 ╭─────────────┈⊷
-│◦➛☘️✨𝐌𝐈𝐊𝐔_𝐁𝐎𝐓💫
+│◦➛@ffxryu.18
 ╰┬────────────┈⊷
 ┌┤🍀𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤 | 𝘾𝙤𝙣𝙩𝙖𝙘𝙩☘️
-│◦➛📚ᩭ✎Wa.me/5212412377467 (BOT)
-│◦➛📚ᩭ✎Wa.me/5212411261883 (BOT) 
-│◦➛📚ᩭ✎Wa.me/5212411719888 (CREADOR)
-│◦➛📚ᩭ✎Wa.me/5212411347465 (CREADOR)
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️
+│◦➛📚ᩭ✎Wa.me/51955095498 (BOT)
+│◦➛@ffxryu.18
 ╰────────────┈⊷`
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `📚𝐌𝐈𝐊𝐔_𝐁𝐎𝐓🍀`,
+'fileName': `@ffxryu.18`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/MIKU_BOT.git',
+'mediaUrl': 'https://github.com/jairgonzales3/RyuBot',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',

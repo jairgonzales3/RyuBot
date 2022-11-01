@@ -4,15 +4,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467'],
-  ['5212411719888'],
-  ['5212411453522'],
+  ['51955095498', '@ffxryu.18', true],
+  ['51933348947', '@ffxryu.18(secundario)', true],
 ]
 
 global.mods = [] 
-global.prems = ['5212411347465'], 
-global.prems = [] 
+global.prems = ['51955095498'], 
+global.prems = ['51933348947'] 
 global.APIs = { 
   amel: 'https://melcanz.com',
   bx: 'https://bx-hunter.herokuapp.com',
@@ -66,8 +64,8 @@ global.APIKeys = {
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
-global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
+global.packname = '@ffxryu.18'
+global.author = '@ffxryu.18'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -77,7 +75,7 @@ global.author = '🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈📔'
 global.vs = '1.0.30'
 global.version = vs
 
-global.gt = '☘️𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚'
+global.gt = '@ffxryu.18'
 global.hadesbot = gt
 
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
@@ -129,8 +127,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '📚𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈|𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓🍀'
-global.igfg = '📚𝐓𝐇𝐄_𝐌𝐈𝐊𝐔_𝐁𝐎𝐓☘️'
+global.wm = '@ffxryu.18'
+global.igfg = '@ffxryu.18'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')

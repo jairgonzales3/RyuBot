@@ -21,15 +21,14 @@ say('HADES_BOT_MD\nYOVANI\nHADES_BOT_MD', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP Ryu Bot
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
-[•]-GRACIAS POR USAR LE BOT DE HADES 
-[•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
+[•]-Owner : Ryu
+[•]-GRACIAS POR USAR EL BOT DE Ryu
+[•]-CERRADO EL BOT Ryu
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',

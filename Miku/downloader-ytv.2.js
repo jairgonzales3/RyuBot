@@ -7,7 +7,7 @@ if (!args || !args[0]) throw '*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃
 conn.reply(m.chat, `⌛ _Cargando...\n▰▰▰▱▱▱▱▱▱`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝚅𝙸𝙳𝙴𝙾 𝚅𝟸',
-body: '𓈃📚𝐌𝐈𝐊𝐔_𝐁𝐎𝐓☘️',         
+body: '@ffxryu.18',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
 sourceUrl: `https://github.com/Yovanihades1212/MIKU_BOT.git`}}})
 let chat = global.db.data.chats[m.chat]

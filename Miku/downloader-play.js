@@ -9,7 +9,7 @@ let { title, description, thumbnail, videoId, durationH, viewH, publishedTime } 
 const url = 'https://www.youtube.com/watch?v=' + videoId
 await conn.sendHydrated(m.chat, `
 ╭─────────────┈⊷
-│◦➛☘️✨𝐌𝐈𝐊𝐔_𝐁𝐎𝐓💫
+│◦➛@ffxryu.18
 ╰┬────────────┈⊷
 ┌┤🥀𝐏𝐋𝐀𝐘🍃
 │◦➛📚ᩭ✎𝚃𝙸𝚃𝚄𝙻𝙾: ${title}
@@ -18,7 +18,7 @@ await conn.sendHydrated(m.chat, `
 │◦➛👀ᩭ✎𝚅𝙸𝚂𝚃𝙰𝚂: ${viewH}
 │◦➛🗣️ᩭ✎𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾: ${publishedTime}
 │◦➛📔ᩭ✎𝚄𝚁𝙻:* ${url}
-│◦➛🌱𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈☘️ 
+│◦➛@ffxryu.18 
 ╰────────────┈⊷`.trim(), author, thumbnail, 'https://github.com/Yovanihades1212/MIKU_BOT.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐀𝐔𝐃𝐈𝐎', `${usedPrefix}yta ${url}`],
 ['𝐕𝐈𝐃𝐄𝐎', `${usedPrefix}ytv ${url}`],

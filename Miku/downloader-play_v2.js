@@ -7,7 +7,7 @@ if (command == 'play.1') {
 conn.reply(m.chat, `⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝙰𝚄𝙳𝙸𝙾',
-body: '☘️𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚',         
+body: '@ffxryu.18',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
 sourceUrl: `https://github.com/Yovanihades1212/MIKU_BOT.git`}}})  
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text)
@@ -17,12 +17,12 @@ if (command == 'play.2') {
 conn.reply(m.chat, `*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ...⏳_*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝚅𝙸𝙳𝙴𝙾',
-body: '☘️𝐌𝐈𝐊𝐔_𝐁𝐎𝐓📚',         
+body: '@ffxryu.18',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
 sourceUrl: `https://github.com/Yovanihades1212/MIKU_BOT.git`}}})
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text)
 let json = await res.json()
-conn.sendFile(m.chat, json.result.dlmp4, 'error.mp4', `📚𝐌𝐈𝐊𝐔_𝐁𝐎𝐓☘️`, m)}
+conn.sendFile(m.chat, json.result.dlmp4, 'error.mp4', `@ffxryu.18`, m)}
 } catch (e) {
 m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')
 console.log(e)
